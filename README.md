@@ -18,15 +18,9 @@ The easiest option in our opinion is Netlify. It's quick to setup and relatively
 
 1. Go to [https://app.netlify.com/start](https://app.netlify.com/start "https://app.netlify.com/start" target="_blank")
 
-![](https://forestry.io/img/theme/netlify-step-1.png)
-
 2. Connect your Git provider and provide Netlify access to your repository (e.g. username/hyde)
 
-![](https://forestry.io/img/theme/netlify-step-2.png)
-
 3. Select and Click on your repository
-
-![](https://forestry.io/img/theme/netlify-step-3.png)
 
 4. Enter your build settings.
    * Build Command: `hugo`
