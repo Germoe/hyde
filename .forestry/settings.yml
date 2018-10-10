@@ -9,7 +9,7 @@ sections:
   label: css
   create: none
   match: "**/*"
-  new_doc_ext: ".css"
+  new_doc_ext: css
 - type: document
   path: README.md
   label: Welcome - Start Here!
