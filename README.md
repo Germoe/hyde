@@ -16,7 +16,7 @@ Currently your site is only visible to you but there's a few options to quickly 
 
 The easiest option in our opinion is Netlify. It's quick to setup and relatively easy to maintain.
 
-1. Go to [https://app.netlify.com/start](https://app.netlify.com/start "https://app.netlify.com/start")
+1. Go to [https://app.netlify.com/start](https://app.netlify.com/start "https://app.netlify.com/start" target="_blank")
 
 ![](https://forestry.io/img/theme/netlify-step-1.png)
 
