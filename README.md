@@ -17,18 +17,13 @@ Currently your site is only visible to you but there's a few options to quickly 
 The easiest option in our opinion is Netlify. It's quick to setup and relatively easy to maintain.
 
 1. Go to <a href="https://app.netlify.com/start" target="_blank">https://app.netlify.com/start</a>
-
 2. Connect your Git provider and provide Netlify access to your repository (e.g. username/hyde)
-
 3. Select and Click on your repository
-
 4. Enter your build settings.
    * Build Command: `hugo`
    * Publish Directory: `public`
-   
 5. Add advanced build settings as a new variable.
    * Key: `HUGO_VERSION` Value: `0.42`
-   
 6. Click on `Deploy Site`
 
 ![](https://forestry.io/img/theme/netlify-step-4.gif)
