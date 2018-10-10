@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: static/css/hyde.css
+  label: Main Stylesheet
+  match: "**/*"
+- type: document
   path: README.md
   label: Welcome - Start Here!
   read_only: true
