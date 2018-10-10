@@ -17,14 +17,28 @@ Currently your site is only visible to you but there's a few options to quickly 
 The easiest option in our opinion is Netlify. It's quick to setup and relatively easy to maintain.
 
 1. Go to [https://app.netlify.com/start](https://app.netlify.com/start "https://app.netlify.com/start")
+
+![](https://forestry.io/img/theme/netlify-step-1.png)
+
 2. Connect your Git provider and provide Netlify access to your repository (e.g. username/hyde)
+
+![](https://forestry.io/img/theme/netlify-step-2.png)
+
 3. Select and Click on your repository
+
+![](https://forestry.io/img/theme/netlify-step-3.png)
+
 4. Enter your build settings.
    * Build Command: `hugo`
    * Publish Directory: `public`
+   
 5. Add advanced build settings as a new variable.
    * Key: `HUGO_VERSION` Value: `0.42`
+   
 6. Click on `Deploy Site`
+
+![](https://forestry.io/img/theme/netlify-step-4.gif)
+
 7. Lastly copy your URL (e.g. https://something-something-123456.netlify.com/) and add it as your URL in your [`Site Configuration`](#/pages/config-toml).
 
 The more powerful option is deployment to AWS and makes sense if you have experience with S3 and Cloudformation. You can find detailed documentation and a deployment template [here](https://forestry.io/docs/hosting/s3-cloudfront-stack/).
