@@ -34,6 +34,9 @@ Second, specify `hyde` as your default theme in the `config.toml` file. Just add
 
 at the top of the file.
 
+## Starter Installation (incl. Forestry CMS)
+
+[![Import this project into Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=germoe/hyde&branch=forestry&provider=github&engine=hugo&version=0.42)
 
 ## Options
 
