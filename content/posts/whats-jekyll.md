@@ -1,13 +1,19 @@
 ---
 layout: post
-title: What's Jekyll?
+title: What's Hugo?
 date: 2012-02-06 00:00:00 +0000
 
 ---
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+[Hugo](http://jekyllrb.com) is the world’s fastest static website engine. It’s written in Go (aka Golang) and developed by bep, spf13 and friends. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+>Hugo is a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.
+
+>Hugo relies on Markdown files with front matter for metadata, and you can run Hugo from any directory. This works well for shared hosts and other systems where you don’t have a privileged account.
+
+>Hugo renders a typical website of moderate size in a fraction of a second. A good rule of thumb is that each piece of content renders in around 1 millisecond.
+
+>Hugo is designed to work well for any kind of website including blogs, tumbles, and docs.
 
 It's an immensely useful tool and one we encourage you to use here with Hyde.
 
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+Find out more by [visiting the project on GitHub](https://github.com/gohugoio/hugo).
