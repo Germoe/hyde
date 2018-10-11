@@ -12,8 +12,8 @@ It pairs a prominent sidebar with uncomplicated content.
 Hyde adds the following:
 
 * Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
+* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/spf13/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
+* [Eight optional color schemes](https://github.com/spf13/hyde#themes), available via `<body>` classes
 
 [Head to the readme](https://github.com/spf13/hyde#readme) to learn more.
 
