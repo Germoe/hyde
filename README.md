@@ -62,6 +62,8 @@ To reverse page orientation activate `Reverse Layout` in `Site Configuration` ->
 
 You can optionally enable a comment system powered by Disqus for your posts. Simply add your Disqus Shortname in `Site Configuration` -> `Additional Settings` -> `Disqus Shortname`.
 
+If you don't have a Disqus Account you can sign up for an account [here](https://disqus.com/).
+
 #### Google Analytics
 
 Google Analytics can be enabled by assigning your tracking code to `Site Configuration` -> `Additional Settings` -> `Google Analytics Tracking Code`.
