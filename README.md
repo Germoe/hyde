@@ -36,6 +36,8 @@ at the top of the file.
 
 ## Starter Installation (incl. Content Manager/CMS)
 
+The button below will copy a fully configured starter repo and import it into the [Forestry](https://forestry.io) Content Manager.
+
 [![Import this project into Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=forestryio/hyde-hugo-starter&provider=github&engine=hugo&version=0.42)
 
 ## Options
