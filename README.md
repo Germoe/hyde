@@ -27,7 +27,7 @@ It pairs a prominent sidebar with uncomplicated content.
 
 To give you a running start this installation puts a fully configured [starter repo](https://github.com/forestryio/hyde-hugo-starter) into your Account and imports it into the [Forestry](https://forestry.io) Content Manager or deploys it to Netlify.
 
-Forestry Starter-Kit:
+_Forestry Starter-Kit:_
 
 [![Import this project into Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=forestryio/hyde-hugo-starter&provider=github&engine=hugo&version=0.42)
 
